@@ -1,5 +1,5 @@
 name=input("Please enter your height in inches.")
 
-
+inch = float(input("Enter length in inches: "))
 
 cm = inch * 2.54
