@@ -1,4 +1,4 @@
-name=input("Please enter your height in inches.")
+name=input("Please enter your name.")
 
 inch = float(input("Enter length in inches: "))
 
