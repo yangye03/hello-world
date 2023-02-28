@@ -1,4 +1,4 @@
-# Version Control (Lab6)
+# Plaintext-and-FOSS (Lab7)
 This is the repository made for Lab6 - version control
 
 The program will prompt the user to enter his/her height in inches and then convert it into centimeters.
